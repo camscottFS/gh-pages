@@ -1,0 +1,115 @@
+﻿@font-face {
+  font-family: "LifeCraft";
+  src: url(../font/LifeCraft_Font.ttf) format("truetype");
+}
+.content{
+	text-align:center;
+	position:relative;
+}
+.head{
+	font-size:40px;
+}
+.intro{
+	font-size:18px;
+}
+h2{
+	font-size:34px;
+}
+.image-left{
+	float:left;
+	margin-top:115px;
+}
+.image-right{
+	float:right;
+	margin-top:230px;
+}
+body{
+	background-image:url('../images/background.png');
+	background-color:black;
+	background-repeat:no-repeat;
+	font-family:LifeCraft;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+.footer{
+	position:relative;
+	margin-left:-10px;
+	background-repeat:repeat;
+}
+
+.link{
+	color:#CC9900;
+	text-decoration:none;
+	text-align:center;
+	font-size:larger;
+}
+.description{
+	position:relative;
+	margin:0 auto;
+	width:625px;
+	height:200px;
+}
+.icon-description{
+	text-align:center;
+}
+.ul-description{
+	font-weight:bold;
+	font-size:18px;
+}
+.table-0{
+	text-align:center;
+	font-size:large;
+	margin:0 auto;
+}
+.table-1{
+	text-align:center;
+	font-size:large;
+	margin:0 auto;
+}
+.table-2{
+	text-align:center;
+	font-size:large;
+	margin:0 auto;
+}
+.nav1{
+	color:#FFFFFF;
+	text-decoration:none;
+	text-align:center;
+	font-weight:bold;
+	font-size:24px;
+}
+.nav2{
+	color:#FFFFFF;
+	text-decoration:none;
+	text-align:center;
+	font-weight:bold;
+	font-size:24px;
+}
+.bottom{
+	margin:0 auto;
+	margin-top:200px;
+}
+.indent{
+	margin-left:30px;
+}
+.info{
+	font-size:22px;
+}
+.goblin{
+	float:left;
+	position:absolute;
+	margin-top:-150px;
+	margin-left:150px;
+}
+.gnome{
+	float:right;
+	position:relative;
+	margin-top:-150px;
+	margin-right:150px;
+}
+.femalegoblin{
+	float:left;
+	margin-left:225px;
+	margin-top:-110px;
+	position:absolute;
+}
