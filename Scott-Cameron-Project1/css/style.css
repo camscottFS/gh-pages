@@ -98,18 +98,6 @@ body{
 .goblin{
 	float:left;
 	position:absolute;
-	margin-top:-150px;
-	margin-left:150px;
-}
-.gnome{
-	float:right;
-	position:relative;
-	margin-top:-150px;
-	margin-right:150px;
-}
-.femalegoblin{
-	float:left;
-	margin-left:225px;
-	margin-top:-110px;
-	position:absolute;
+	margin-top:-600px;
+	margin-left:400px;
 }
