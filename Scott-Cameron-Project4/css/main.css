@@ -330,6 +330,23 @@ th {
 	text-transform: uppercase;
 }
 
+th {
+	-moz-box-shadow: 0 0 7px #6BB1F2;
+	-webkit-box-shadow: 0 0 7px #6BB1F2;
+	box-shadow: 0 0 7px #6BB1F2;
+}
+
+tr {
+	-moz-box-shadow: 0 0 7px #6BB1F2;
+	-webkit-box-shadow: 0 0 7px #6BB1F2;
+	box-shadow: 0 0 7px #6BB1F2;
+}
+
+td {
+	-moz-box-shadow: 0 0 7px #6BB1F2;
+	-webkit-box-shadow: 0 0 7px #6BB1F2;
+	box-shadow: 0 0 7px #6BB1F2;
+}
 table {
 	margin: auto;
 	text-align:center;
@@ -339,6 +356,12 @@ table {
 	-moz-box-shadow: 0 0 7px #6BB1F2;
 	-webkit-box-shadow: 0 0 7px #6BB1F2;
 	box-shadow: 0 0 7px #6BB1F2;
+}
+
+table:hover {
+	-moz-box-shadow: 0 0 10px #ccc;
+	-webkit-box-shadow: 0 0 10px #ccc;
+	box-shadow: 0 0 10px #ccc;
 }
 
 /* End Table */
