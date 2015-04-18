@@ -25,9 +25,11 @@ h1 {
 }
 
 h2 {
+	font-family: Constantia;
 	margin: 10px 10px 10px 10px;
 	font-weight: bold;
 	text-shadow: 2px 2px #000;
+	text-transform: uppercase;
 }
 
 header {
@@ -50,6 +52,8 @@ ul {
 }
 
 li {
+	font-family: Constantia;
+	font-weight: bold;
 	display: inline;
 	text-transform: uppercase;
 	margin-right: 10px;
