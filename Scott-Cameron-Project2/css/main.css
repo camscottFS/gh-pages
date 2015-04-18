@@ -59,6 +59,10 @@ li {
 	font-size: 22px;
 }
 
+.first {
+	margin-left: -30px;
+}
+
 a:link {
 	color: #fff;
 	text-decoration: none;
