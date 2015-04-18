@@ -102,6 +102,24 @@ a:active {
 	
 }
 
+/* Start Scrollbar */
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+::-webkit-scrollbar-track {
+    background-color: #314159;
+    border-left: 1px solid #314159;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #D04D20;
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: #BF4217;
+}
+
+/* End Scrollbar */
+
 /* Start Main CSS */
 
 #content {
