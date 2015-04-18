@@ -102,6 +102,8 @@ a:active {
 	
 }
 
+/* Start Main CSS */
+
 #content {
 	margin: 0 auto;
 	width: 60%;
@@ -165,6 +167,10 @@ aside {
 	margin: 10px 10px 10px 10px;
 	width: 100%;
 }
+
+/* End Main CSS */
+
+/* Footer */
 
 .validation {
 	margin: 0 auto;
